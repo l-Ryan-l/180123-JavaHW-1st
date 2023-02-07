@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// Task 3:
 // Реализовать простой калькулятор (пользователь вводит 2 числа и вводит операцию (+ - / *).
 // int a ; int b; String op (op!=”Stop”); (char != ’b’)
 public class Task3_Calc {
